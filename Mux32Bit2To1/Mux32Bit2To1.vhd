@@ -1,0 +1,13 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+// 
+// Module - Mux32Bit2To1.v
+// Description - Use the sel input signal to choose which 32-bit inputs should be at the output
+//              - sel = 1, out = inA
+//              - sel = 0, out = inB
+////////////////////////////////////////////////////////////////////////////////
+
